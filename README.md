@@ -18,7 +18,7 @@ A DDoS tool that uses unsecured GPRS servers via AMP attacks.
 ## Set-up
 
 ```
-git clone https://github.com/opensecs/gprs-smash
+git clone https://github.com/GnosticPlayers/GTP-Smash
 ```
 
 ## PoC - Point Of Concept
@@ -50,6 +50,11 @@ Update: 25/05/19
 Recently, 5G in the UK was announced to have a max speed of 10GBPS, which is far better than our 1GPBS. However, this now means that our initial number (939tbps) must now be timed 10!.
 
 This is equal to 1/PBPS or (1.042499 pbps!). This means that nothing can survive / mitigrate against this.
+
+Update: 01/06/19 
+
+As of today, I tested out the tool early in the morning, later on during the day, I've had issues with internet access to the application websites and applications I targetted. Example service that was hit:
+* Snapchat (I've had issues all day with this)
 
 # Author
 
