@@ -56,6 +56,10 @@ Update: 01/06/19
 As of today, I tested out the tool early in the morning, later on during the day, I've had issues with internet access to the application websites and applications I targetted. Example service that was hit:
 * Snapchat (I've had issues all day with this)
 
+Update: 18/07/19
+
+I've finally finished the project. This includes all python sources files, features and additions that I wanted to include. However, I will NOT be uploading it here, as Github will just flock to this and it'll get overused into the ground. If you want access, please email me. <3
+
 # Author
 
 __Email__: dreammarket@riseup.net
