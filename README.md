@@ -11,17 +11,19 @@ A DDoS tool that uses unsecured GPRS servers via AMP attacks.
 ## Pre-Requirements
 
 * Python3
-* Shodan API
-* Shodan Python package
-* Scrapy Python package
+* Shodan API Key
+* Shodan ```sudo python3-pip install shodan```
+* Scrapy ``sudo python3-pip install scrapy```
 
-## Set-up
+## Download
 
 ```
 git clone https://github.com/GnosticPlayers/GTP-Smash
 ```
 
 ## PoC - Point Of Concept
+
+![alt text](https://i.gyazo.com/0ebba1050055005edeb64e9249b0c075.png "Explaining vulnerabilities with GPRS / GTP")
 
 Date: 07/05/19
 
@@ -65,6 +67,8 @@ Update: 27/04/2021
 Just finished adding the anomitiy module. Tested around 400K bots on paypal.com. It seems to be struggling
 # Author
 
-__Email__: dreammarket@riseup.net
+Rest In Peace to the original developer, whom has sadly passed away.
+This account will now be maintained by an IRL/close friend.
 
+__Email__: dreammarket@riseup.net
 __Twitter__: [![twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/GnosticPlayers)
