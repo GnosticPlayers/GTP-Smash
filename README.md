@@ -44,7 +44,6 @@ So, let's work out the maths:
 ```
 If 5G does end up using all these servers, then you can now see why this is an issue!
 
-
 On the same note, my friend (who's also helping me with this) has access to my tool, he's using a different port but the same Shodan dork as me. He has 287K+ bots. If we work together or add more functions to the tool to allow different ports to be controlled, then we'll have a total bot number of ```939,000+``` or ```0.939Pbps```
 
 Update: 25/05/19
@@ -65,6 +64,12 @@ I've finally finished the project. This includes all python sources files, featu
 Update: 27/04/2021
 
 Just finished adding the anomitiy module. Tested around 400K bots on paypal.com. It seems to be struggling
+
+Update: 05/05/2021
+
+Upon further research into this project, I can now see that with the use of IoT search engines, such as Censys, Zoomeye & Shodan, threat actors or APTs can download & parse millions of GPRS-tunneling-protocol-based IPs & subsequently attack them all, for a selected area, albeit a town or a city, or even a country, and remove all connection to the outside world via 3G/4G/5G networks. In short, anyone can use a botnet or something similar to attack these IPs en-mass, which can shut down communications for a country or a city. 
+
+The United Kingdom, for instance, only has around 700 GPRS servers, which are all suseptable to denial of service attacks.
 # Author
 
 Rest In Peace to the original developer, whom has sadly passed away.
