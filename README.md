@@ -63,6 +63,8 @@ I've finally finished the project. This includes all python sources files, featu
 Update: 27/04/2021
 
 Just finished adding the anomitiy module. Tested around 400K bots on paypal.com. It seems to be struggling
+Just decided to finish off the internal-VPN access, to allow for tor node connections. Attacked with 300K bots to twitter.com
+The site wasn't downed, but a lot of features were offline. Messages & Tweets were off. Google was also affected by it as well. Google has been hit with around 280K bots, mostly all from China. Attack power was at around 900GBPS, capped at 1.14TBPS.
 # Author
 
 __Email__: dreammarket@riseup.net
