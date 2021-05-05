@@ -38,18 +38,18 @@ So, let's work out the maths:
 ```
 50 * 20 = 1000 or 1Gbps
 1 server has 1gbs. I have amassed a total of 652,000 bots. Each of these has the max capacity of 1Gbps. 
-652,000 * 1 = 652000 or 652Tbps!
+652,000 * 1 = 652000 or 652Tbps
 ```
-If 5G does end up using all these servers, then you can now see why this is an issue!
+If 5G does end up using all these servers, then you can now see why this is an issue
 
 
 On the same note, my friend (who's also helping me with this) has access to my tool, he's using a different port but the same Shodan dork as me. He has 287K+ bots. If we work together or add more functions to the tool to allow different ports to be controlled, then we'll have a total bot number of ```939,000+``` or ```0.939Pbps```
 
 Update: 25/05/19
 
-Recently, 5G in the UK was announced to have a max speed of 10GBPS, which is far better than our 1GPBS. However, this now means that our initial number (939tbps) must now be timed 10!.
+Recently, 5G in the UK was announced to have a max speed of 10GBPS, which is far better than our 1GPBS. However, this now means that our initial number (939tbps) must now be timed 10.
 
-This is equal to 1/PBPS or (1.042499 pbps!). This means that nothing can survive / mitigrate against this.
+This is equal to 1/PBPS or (1.042499 pbps). This means that nothing can survive / mitigrate against this.
 
 Update: 01/06/19 
 
