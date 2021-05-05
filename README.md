@@ -13,7 +13,7 @@ A DDoS tool that uses unsecured GPRS servers via AMP attacks.
 * Python3
 * Shodan API Key
 * Shodan ```sudo python3-pip install shodan```
-* Scrapy ``sudo python3-pip install scrapy```
+* Scrapy ```sudo python3-pip install scrapy```
 
 ## Download
 
